@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "alan"
+    },
+    {
+      "id": 2,
+      "name": "rishan"
+    },
+    {
+      "id": 3,
+      "name": "max"
+    },
+    {
+      "id": 4,
+      "name": "tyson"
+    },
+    {
+      "id": 5,
+      "name": "alex"
+    },
+    {
+      "id": 6,
+      "name": "ali"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
